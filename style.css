@@ -1,0 +1,30 @@
+* {
+    box-sizing: border-box;
+
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+    /* max-width: 500px; */
+}
+
+.heading {
+    font-weight: 600;
+    width: 1000px;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.form {
+    font-weight: 200;
+    width: 435px;
+    height: 250px;
+    /* background-color: aquamarine; */
+    margin: 0 auto;
+    text-align: center;
+    border-style: dashed;
+    /* border-color: crimson; */
+    border-radius: 1em;
+
+
+}
